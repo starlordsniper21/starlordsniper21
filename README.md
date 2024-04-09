@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=starlordsniper21" alt="starlordsniper21" /></a> </p>
+
 Programming is like sex. One mistake and you have to support it for the rest of your life.
 
 * 🌍  I'm based in Philippines
@@ -25,5 +27,4 @@ Programming is like sex. One mistake and you have to support it for the rest of 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=starlordsniper21&show_icons=true&locale=en&layout=compact" alt="starlordsniper21" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=starlordsniper21&show_icons=true&locale=en" alt="starlordsniper21" /></p>
 
