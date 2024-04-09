@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=starlordsniper21" alt="starlordsniper21" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=starlordsniper21&label=Profile%20views&color=0e75b6&style=flat" alt="starlordsniper21" /> </p>
 
 Programming is like sex. One mistake and you have to support it for the rest of your life.
 
